@@ -8,4 +8,5 @@ Restaurant restaurant = new Restaurant("Sumedha", "Calgary", 0.15);
 Console.WriteLine("{0}", restaurant.Name);
 Console.WriteLine("{0}", restaurant.Address);
 
-restaurant.GenerateReceipt();
+restaurant.GenerateReceipt(); 
+Console.WriteLine("Than you for coming");
