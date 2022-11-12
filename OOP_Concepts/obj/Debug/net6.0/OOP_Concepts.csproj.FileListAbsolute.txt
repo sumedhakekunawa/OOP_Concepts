@@ -1,0 +1,15 @@
+D:\Visual Studio Practicals\OOP_Concepts\OOP_Concepts\bin\Debug\net6.0\OOP_Concepts.exe
+D:\Visual Studio Practicals\OOP_Concepts\OOP_Concepts\bin\Debug\net6.0\OOP_Concepts.deps.json
+D:\Visual Studio Practicals\OOP_Concepts\OOP_Concepts\bin\Debug\net6.0\OOP_Concepts.runtimeconfig.json
+D:\Visual Studio Practicals\OOP_Concepts\OOP_Concepts\bin\Debug\net6.0\OOP_Concepts.dll
+D:\Visual Studio Practicals\OOP_Concepts\OOP_Concepts\bin\Debug\net6.0\OOP_Concepts.pdb
+D:\Visual Studio Practicals\OOP_Concepts\OOP_Concepts\obj\Debug\net6.0\OOP_Concepts.csproj.AssemblyReference.cache
+D:\Visual Studio Practicals\OOP_Concepts\OOP_Concepts\obj\Debug\net6.0\OOP_Concepts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Practicals\OOP_Concepts\OOP_Concepts\obj\Debug\net6.0\OOP_Concepts.AssemblyInfoInputs.cache
+D:\Visual Studio Practicals\OOP_Concepts\OOP_Concepts\obj\Debug\net6.0\OOP_Concepts.AssemblyInfo.cs
+D:\Visual Studio Practicals\OOP_Concepts\OOP_Concepts\obj\Debug\net6.0\OOP_Concepts.csproj.CoreCompileInputs.cache
+D:\Visual Studio Practicals\OOP_Concepts\OOP_Concepts\obj\Debug\net6.0\OOP_Concepts.dll
+D:\Visual Studio Practicals\OOP_Concepts\OOP_Concepts\obj\Debug\net6.0\refint\OOP_Concepts.dll
+D:\Visual Studio Practicals\OOP_Concepts\OOP_Concepts\obj\Debug\net6.0\OOP_Concepts.pdb
+D:\Visual Studio Practicals\OOP_Concepts\OOP_Concepts\obj\Debug\net6.0\OOP_Concepts.genruntimeconfig.cache
+D:\Visual Studio Practicals\OOP_Concepts\OOP_Concepts\obj\Debug\net6.0\ref\OOP_Concepts.dll
